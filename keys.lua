@@ -13,7 +13,7 @@ return {
   },
   {
     Identificador = "Denny",
-    Hwid = "Empty",
+    Hwid = "7AA2E7E4-4451-4426-A621-25AF6FA6DB47",
     Key = "SUPA-QL791J07XZ-MDKJ0AW35T-A31ERZLD9Q",
     Expira = 1757048936,
   },
