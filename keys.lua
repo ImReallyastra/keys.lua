@@ -5,10 +5,4 @@ return {
     Key = "SUPA-10DU6BCHCT-ACVA1GVZA8-3NH8L7GEFS",
     Expira = 88156607287,
   },
-  {
-    Identificador = "astra",
-    Hwid = "Empty",
-    Key = "SUPA-I5UNCZ93BS-V2AYGVMYAN-90LBODH0OD",
-    Expira = 1757087596,
-  },
 }
