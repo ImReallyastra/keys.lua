@@ -5,10 +5,4 @@ return {
     Key = "SUPA-10DU6BCHCT-ACVA1GVZA8-3NH8L7GEFS",
     Expira = 88156607287,
   },
-  {
-    Identificador = "Shelby",
-    Hwid = "Empty",
-    Key = "SUPA-BGC7HWGTLG-N07DV5S0QV-9IJJCTE5D9",
-    Expira = 1757299016,
-  },
 }
