@@ -5,4 +5,10 @@ return {
     Key = "SUPA-YTLDW1JKTR-USE117V6CB-Z89UVDTZSG",
     Expira = 88157118659,
   },
+  {
+    Identificador = "Labubu",
+    Hwid = "Empty",
+    Key = "SUPA-LVQ6YFHNRX-W4WM9EQCRB-QOC8YNVHFN",
+    Expira = 865757121537,
+  },
 }
