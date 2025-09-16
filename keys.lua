@@ -7,7 +7,7 @@ return {
   },
   {
     Identificador = "Big",
-    Hwid = "Empty",
+    Hwid = "796691D5-6A46-4514-88E5-70BB75728B7E",
     Key = "SUPA-Q5U4907BDQ-IVSM20ZG1J-U544IU4F0N",
     Expira = 8641757953733,
   },
