@@ -5,4 +5,10 @@ return {
     Key = "SUPA-YTLDW1JKTR-USE117V6CB-Z89UVDTZSG",
     Expira = 88157118659,
   },
+  {
+    Identificador = "Big",
+    Hwid = "Empty",
+    Key = "SUPA-Q5U4907BDQ-IVSM20ZG1J-U544IU4F0N",
+    Expira = 8641757953733,
+  },
 }
