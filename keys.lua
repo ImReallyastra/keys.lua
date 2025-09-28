@@ -11,4 +11,10 @@ return {
     Key = "SUPA-Q5U4907BDQ-IVSM20ZG1J-U544IU4F0N",
     Expira = 8641757953733,
   },
+  {
+    Identificador = "Solara",
+    Hwid = "Empty",
+    Key = "SUPA-UK5VIV6GJU-PS29OMB5AO-X2KBT3GEP3",
+    Expira = 1759182564,
+  },
 }
