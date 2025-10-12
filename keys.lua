@@ -12,12 +12,6 @@ return {
     Expira = 8641757953733,
   },
   {
-    Identificador = "Solara",
-    Hwid = "Empty",
-    Key = "SUPA-UK5VIV6GJU-PS29OMB5AO-X2KBT3GEP3",
-    Expira = 1759182564,
-  },
-  {
     Identificador = "ForAll",
     Hwid = "Empty",
     Key = "SUPA-QAEW92D260-UX6ZT3E5AK-GU1CIY9KZD",
