@@ -19,7 +19,7 @@ return {
   },
   {
     Identificador = "Hikaru",
-    Hwid = "Empty",
+    Hwid = "D7220D00-1A3C-4A67-94A7-1D541CAD3323",
     Key = "SUPA-RGBU65FHDO-OMXUR8KCD9-3EKX0IMUCH",
     Expira = 1846820495,
   },
