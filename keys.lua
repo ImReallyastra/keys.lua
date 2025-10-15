@@ -12,12 +12,6 @@ return {
     Expira = 8641757953733,
   },
   {
-    Identificador = "ForAll",
-    Hwid = "Empty",
-    Key = "SUPA-QAEW92D260-UX6ZT3E5AK-GU1CIY9KZD",
-    Expira = 88159009821,
-  },
-  {
     Identificador = "Hikaru",
     Hwid = "D7220D00-1A3C-4A67-94A7-1D541CAD3323",
     Key = "SUPA-RGBU65FHDO-OMXUR8KCD9-3EKX0IMUCH",
