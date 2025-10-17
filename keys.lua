@@ -17,4 +17,10 @@ return {
     Key = "SUPA-RGBU65FHDO-OMXUR8KCD9-3EKX0IMUCH",
     Expira = 1846820495,
   },
+  {
+    Identificador = "fr",
+    Hwid = "Empty",
+    Key = "SUPA-L2MRPNANU3-KNC703S019-85CQDLHYBA",
+    Expira = 1760821577,
+  },
 }
